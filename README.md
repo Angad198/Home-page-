@@ -35,7 +35,7 @@ Homepage/
 │── public/
 │    ├── homepage1.png
 │    ├── homepage2.png
-│    ├── homepage3.png
+│    
 ```
 
 ---
@@ -44,11 +44,11 @@ Homepage/
 
 ### Homepage Design
 
-![Homepage Screenshot](public/homepage1.png.png)
+![Homepage Screenshot](public/Homepage1.png)
 
 ### Premium UI Section
 
-![UI Screenshot](public/homepage2.png.png)
+![UI Screenshot](public/Homepage2.png)
 
 
 
