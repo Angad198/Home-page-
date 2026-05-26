@@ -44,11 +44,11 @@ Homepage/
 
 ### Homepage Design
 
-![Homepage Screenshot](public/Homepage1.png)
+![Homepage Screenshot](public/Homepage 1.png)
 
 ### Premium UI Section
 
-![UI Screenshot](public/Homepage2.png)
+![UI Screenshot](public/Homepage 2.png)
 
 
 
