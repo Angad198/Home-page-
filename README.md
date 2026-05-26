@@ -44,7 +44,7 @@ Homepage/
 
 ### Homepage Design
 
-![Homepage Screenshot](public/Homepage 1.png)
+![Homepage Screenshot](public/Homepage1.png)
 
 ### Premium UI Section
 
