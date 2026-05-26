@@ -40,15 +40,14 @@ Homepage/
 
 ---
 
+
 ## 📸 Project Preview
 
 ### Homepage Design
-
-![Homepage Screenshot](public/Homepage 1.png)
+![Homepage Screenshot](./public/Homepage%201.png)
 
 ### Premium UI Section
-
-![UI Screenshot](public/Homepage 2.png)
+![UI Screenshot](./public/Homepage%202.png)
 
 
 
